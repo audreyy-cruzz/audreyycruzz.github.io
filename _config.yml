@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Audrey's homepage
+description: my website to keep an eye on my project updates!
+plugins:
+  - jemoji
