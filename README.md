@@ -7,3 +7,8 @@ Welcome to my small student website!
 2. song: [favorite song](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9)
 
 3. character: ![Hello_Kitty](assets/hello-kitty.png)
+
+## Hobbies
+- painting
+- scrapbooking
+- shopping!
