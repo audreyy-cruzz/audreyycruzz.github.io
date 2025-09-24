@@ -6,4 +6,4 @@ Welcome to my small student website!
 
 2. song: [favorite song](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9)
 
-3. character: ![my character](Hello_Kitty.webp.pdf)
+3. character: ![Hello_Kitty](https://github.com/user-attachments/files/22505880/Hello_Kitty.webp.pdf)
